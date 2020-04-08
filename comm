@@ -1,0 +1,11 @@
+
+ssh-keygen -t rsa -b 4096 -C "ataxanrd@gmail.com"
+v6vaev6a88e380vev41f0d5ca5
+
+https://www.youtube.com/watch?v=WgZIv5HI44o
+
+docker build .
+docker-compose build
+docker-compose run app  sh -c "django-admin.py startproject app ."
+
+django-admin startproject app .
